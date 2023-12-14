@@ -1,0 +1,40 @@
+body {
+  background-color: antiquewhite;
+  width: 70%;
+  margin: auto;
+}
+
+header {
+  background-color: rgba(146, 56, 56, 0.822);
+}
+
+a {
+  color: rgb(243, 90, 90);
+}
+.profilovka {
+  display: inline-block;
+  width: 200px;
+}
+
+.kontakt {
+  display: inline-block;
+  width: 300px;
+}
+
+.img-profilovka {
+  height: 200px;
+  width: auto;
+}
+.zam {
+  font-weight: bold;
+  color: rgb(65, 2, 2);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgb(65, 2, 2);
+}
